@@ -1,0 +1,7 @@
+<resources>
+    <color name="teddy_primary">#4A9CF2</color>
+    <color name="teddy_secondary">#FFD166</color>
+    <color name="teddy_background">#F4F7FB</color>
+    <color name="teddy_surface">#FFFFFF</color>
+    <color name="teddy_on_surface">#1D1E2C</color>
+</resources>
